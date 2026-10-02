@@ -1,6 +1,5 @@
 ﻿# ¡Hola! Soy Jostyn Muentes 🚀
 <p align="center">
-  <img src="https://img.shields.io/badge/Ingeniería%20en%20TI-Estudiante%20de%20Último%20Semestre-emerald?style=for-the-badge" alt="Rol">
   <img src="https://img.shields.io/badge/GitHub%20Foundations-Certified-blue?style=for-the-badge&logo=github" alt="GitHub Certified">
   <img src="https://img.shields.io/badge/Inglés-B1%20Intermediate-orange?style=for-the-badge" alt="Inglés">
 </p>
