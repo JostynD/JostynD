@@ -10,8 +10,6 @@
 
 Soy estudiante de último semestre de la carrera de **Ingeniería en Tecnologías de la Información** en la **Universidad Laica Eloy Alfaro de Manabí (ULEAM)**. Me apasiona el desarrollo de software, el diseño de soluciones robustas de bases de datos y la ciberseguridad. 
 
-A lo largo de mi formación, he consolidado mis habilidades teóricas con **más de 400 horas de prácticas preprofesionales y vinculación comunitaria** en entornos de alta exigencia, tales como el área de TI del **Hospital IESS Manta** y el **Departamento de Tecnologías de ULEAM EP**. Además, mantengo un enfoque constante en la educación continua a través de certificaciones internacionales de líderes de la industria como **Microsoft, Cisco, Google y LinkedIn Learning**.
-
 *   🌍 Ubicación: Manta, Manabí, Ecuador.
 *   🎒 Educación: Ingeniería en Tecnologías de la Información (ULEAM).
 *   🌐 Mi Portafolio Web: [jostynd.github.io/mi-portafolio/](https://jostynd.github.io/mi-portafolio/)
